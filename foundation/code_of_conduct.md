@@ -1,9 +1,3 @@
----
-layout: page
-title: Code of Conduct
-subtitle: FinOps 재단 행동강령
----
-
 # FinOps 재단 행동강령 (Code of Conduct)
 
 **DEPRECATION NOTICE, 2022년 12월 :** 다음의 문서를 사용해주세요. [this Code of Conduct documentation](/03-code_of_conduct.md) 2023년 초에 새로운 문서를 위해 이 문서를 일몰하겠습니다.
