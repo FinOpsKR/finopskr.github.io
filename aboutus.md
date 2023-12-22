@@ -12,7 +12,7 @@ subtitle:
 - FinOps 한국 커뮤니티는 [카카오톡 오픈채팅](https://open.kakao.com/o/gwSjnLqe)을 활용하여 소통하고 있습니다.
 - FinOps 재단의 슬랙 커뮤니티 가입을 원하시는 분은 [여기](https://www.finops.org/join/)에서 신청하세요.
 
-* * *
+***
 
 # FinOps 한국 커뮤니티 운영진 정보
 
@@ -27,6 +27,8 @@ subtitle:
 
 # FinOps 한국 커뮤니티 이력
 
-2024.  1. 12. 첫 번째 밋업 예정
-2023. 10. 31. FinOps Foundation 슬랙 채널 생성 (#meetup-korea-finops)
-2022.  7. 18. 오픈 채팅 생성
+2024-01-12 첫 번째 밋업 예정
+
+2023-10-31 FinOps Foundation 슬랙 채널 생성 (#meetup-korea-finops)
+
+2022-07-18 오픈 채팅 생성
