@@ -20,8 +20,8 @@ author: JunHee Kang
 ###############################################
 
 navbar-links:
-  About Me: "aboutus"
-  FinOps Foundation : "https://www.finops.org/"{:target="_blank"}
+  About Us: "aboutus"
+  FinOps Foundation : "https://www.finops.org/"
   Resources:
     - FinOps : "finops"
     - AWS : "aws"
