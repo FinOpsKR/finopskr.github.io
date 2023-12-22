@@ -1,9 +1,11 @@
 ---
 layout: post
-title: FinOps Framework
-subtitle: What's the FinOps?
+published: ture
+title: FinOps 란 무엇인가?
+subtitle: FinOps 프레임워크
 tags: Finops
 comments: true
+date: '2023-12-22'
 author: Junhee Kang
 ---
 
