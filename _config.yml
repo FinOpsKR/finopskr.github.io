@@ -23,13 +23,14 @@ navbar-links:
   About Us: "aboutus"
   NOTICE : "notice"
   Code of Conduct : "codeofconduct"
-  FinOps Foundation : "https://www.finops.org/"
   Resources:
     - FinOps : "finops"
     - AWS : "aws"
     - GCP : "gcp"
     - Azure : "azure"
     - NCLOUD : "ncloud"
+    
+  FinOps Foundation : "https://www.finops.org/"  
 #  Author's home: "https://deanattali.com"
 
 ################
