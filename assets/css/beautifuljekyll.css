@@ -468,7 +468,7 @@ footer .footer-custom-content {
 
 .post-preview a {
   text-decoration: none;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   color: {{ site.text-col | default: "#404040" }};
 }
 
@@ -493,7 +493,7 @@ footer .footer-custom-content {
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 .post-heading .post-meta {
   display: inline-block;
