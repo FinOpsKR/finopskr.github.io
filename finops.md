@@ -36,3 +36,6 @@ subtitle:
 - [kubecost](https://www.kubecost.com/)
 - [ScaleOps](https://scaleops.com/)
 - [cast.ai](https://cast.ai/)
+
+# FinOpsFoundation Youtube
+- [FinOps Foundation](https://www.youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA)
