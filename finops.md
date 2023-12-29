@@ -14,14 +14,15 @@ subtitle:
 - [기업용 클라우드 비용 최적화: 도구과 사례](https://slownews.kr/79903)
 - [소중한 자원이 낭비되지 않도록, 클라우드 핀옵스(FinOps)에 포커스](https://www.samsungsds.com/kr/techreport/cloud-finops.html)
 - [The future of DevOps is FinOps](https://www.linkedin.com/pulse/future-devops-finops-chee-siong-chan/)
+- ['클라우드 비용은 최소화 운영은 최적화' 핀옵스(FinOps) 가이드](https://www.ciokorea.com/news/271341)
 
 
 ## FinOps Tools
+- [FOCUS:The FinOps Cost and Usage Specification](https://focus.finops.org/)
 - [VScode-Extension:테라폼 수정 비용 추적](https://github.com/infracost/vscode-infracost/)
-- [Serverless Cost Calculator](http://serverlesscalc.com)
+- [SERVERLESS FaaS COST CALCULATOR](https://faascalc.com/)
 - [OpenCost - your favorite open source cost monitoring tool for Kubernetes](https://github.com/opencost/opencost)
 - [Infracost VSCode Extension](https://github.com/infracost/vscode-infracost)
-
 
 
 ## FinOps Solutions
@@ -37,5 +38,6 @@ subtitle:
 - [ScaleOps](https://scaleops.com/)
 - [cast.ai](https://cast.ai/)
 
-# FinOpsFoundation Youtube
+# FinOps Youtube
 - [FinOps Foundation](https://www.youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA)
+- [우아한 FinOps: 클라우드 비용과 성능 사이](https://www.youtube.com/watch?v=aRwe1yHq5RQ)

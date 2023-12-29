@@ -23,9 +23,14 @@ subtitle:
 
 ## AWS FinOps Video
 - [AWS 비용 관련 유튜브 재생목록](https://www.youtube.com/playlist?list=PLkMxFWEx0j2OA-qi5kMMqfIEdCXd-l-Os)
-- [AWS re:Invent 2022 비용 관련 유튜브 재생목록](https://www.youtube.com/watch?v=xOQzhagC9hA&list=PLkMxFWEx0j2N8gV3rmoevDKKU5F0OW5eK)
+- [AWS re:Invent 2022 FinOps](https://www.youtube.com/watch?v=xOQzhagC9hA&list=PLkMxFWEx0j2N8gV3rmoevDKKU5F0OW5eK)
+- [AWS re:Invent 2023 FinOps](https://www.youtube.com/watch?v=pjzluTJVEQM&list=PLkMxFWEx0j2NzET81EfUpf8_sdFoB2Fl4)
+- [[Cost Optimization / 비용최적화] 코 묻은 돈도 아껴 쓰자](https://www.youtube.com/watch?v=5Iyaeam3B1w)
 
 ## AWS Blogs
+- [Cost Optimization Hub 출시 – 권장 조치를 중앙 집중화하여 비용 절감](https://aws.amazon.com/ko/blogs/korea/new-cost-optimization-hub-to-find-all-recommended-actions-in-one-place-for-saving-you-money/)
+- [10 Ways to work WITH Developers to take action with FinOps/Cost Optimization](https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/10-ways-to-work-with-developers-to-take-action-with-finops-cost-optimize/)
+- [Amazon EFS Archive – 거의 접근하지 않는 파일 스토리지 비용 최적화](https://aws.amazon.com/ko/blogs/korea/optimize-your-storage-costs-for-rarely-accessed-files-with-amazon-efs-archive/)
 - [Karpenter 통합을 이용한 Kubernetes 컴퓨팅 비용 최적화](https://aws.amazon.com/ko/blogs/tech/optimizing-your-kubernetes-compute-costs-with-karpenter-consolidation/)
 - [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp)
 - [Amazon Redshift의 가격 대비 성능 리더쉽](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-continues-its-price-performance-leadership)

@@ -88,8 +88,8 @@
 
   
   <meta property="og:type" content="website">
-  <meta property="og:url" content="http://localhost:4000/aws/">
-  <link rel="canonical" href="http://localhost:4000/aws/">
+  <meta property="og:url" content="http://localhost:4000/resources/aws.md">
+  <link rel="canonical" href="http://localhost:4000/resources/aws.md">
   
 
   
@@ -200,18 +200,10 @@
         }, \
        \
         { \
-          "title"    : "AWS", \
-          "desc"     : "AWS", \
-          "category" : "page", \
-          "url"      : "/aws/", \
-          "date"     : "January 1, 1970" \
-        }, \
-       \
-        { \
           "title"    : "Azure", \
           "desc"     : "Azure", \
           "category" : "page", \
-          "url"      : "/azure/", \
+          "url"      : "/resources/azure/", \
           "date"     : "January 1, 1970" \
         }, \
        \
@@ -227,7 +219,7 @@
           "title"    : "FinOps", \
           "desc"     : "FinOps", \
           "category" : "page", \
-          "url"      : "/finops/", \
+          "url"      : "/resources/finops/", \
           "date"     : "January 1, 1970" \
         }, \
        \
@@ -235,7 +227,7 @@
           "title"    : "GCP", \
           "desc"     : "GCP", \
           "category" : "page", \
-          "url"      : "/gcp/", \
+          "url"      : "/resources/gcp/", \
           "date"     : "January 1, 1970" \
         }, \
        \
@@ -251,7 +243,7 @@
           "title"    : "Ncloud", \
           "desc"     : "Ncloud", \
           "category" : "page", \
-          "url"      : "/ncloud/", \
+          "url"      : "/resources/ncloud/", \
           "date"     : "January 1, 1970" \
         }, \
        \
