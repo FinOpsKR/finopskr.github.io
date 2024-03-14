@@ -26,6 +26,8 @@ subtitle:
 - [AWS re:Invent 2022 FinOps](https://www.youtube.com/watch?v=xOQzhagC9hA&list=PLkMxFWEx0j2N8gV3rmoevDKKU5F0OW5eK)
 - [AWS re:Invent 2023 FinOps](https://www.youtube.com/watch?v=pjzluTJVEQM&list=PLkMxFWEx0j2NzET81EfUpf8_sdFoB2Fl4)
 - [[Cost Optimization / 비용최적화] 코 묻은 돈도 아껴 쓰자](https://www.youtube.com/watch?v=5Iyaeam3B1w)
+- [우아한 FinOps: 클라우드 비용과 성능 사이](https://www.youtube.com/watch?v=aRwe1yHq5RQ)
+- [AWS 비용 초과 시 자동으로 리소스/지출 멈추는 방법](https://www.youtube.com/watch?v=V8J5m2DyesQ)
 
 ## AWS Blogs
 - [Cost Optimization Hub 출시 – 권장 조치를 중앙 집중화하여 비용 절감](https://aws.amazon.com/ko/blogs/korea/new-cost-optimization-hub-to-find-all-recommended-actions-in-one-place-for-saving-you-money/)
@@ -46,6 +48,8 @@ subtitle:
 - [AWS Compute Optimizer](https://aws.amazon.com/ko/blogs/korea/new-for-aws-compute-optimizer-resource-efficiency-metrics-to-estimate-savings-opportunities-and-performance-risks/)
 
 ## Article
+- [스타트업 엔지니어의 AWS 비용 최적화 경험기](https://tech.inflab.com/20240227-finops-for-startup/)
+- [클라우드 비용 가시화 그렇게 어렵지 않아요!](https://tech.kakaopay.com/post/cloud-cost-visualization/)
 - [1년 동안 Workload의 절반을 ARM64로 Migration하기](https://hyperconnect.github.io/2023/07/25/migrate-half-of-workload-in-a-year.html)
 - [수제 FinOps - Lambda편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-Lambda%ED%8E%B8)
 - [수제 FinOps - NAT편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-NAT%ED%8E%B8)
