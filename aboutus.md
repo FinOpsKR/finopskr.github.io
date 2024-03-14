@@ -35,6 +35,6 @@ subtitle:
 >>>>>>> 946d69c2a51a894585c846830b087fd5449f410e
 2024-01-12 첫 번째 밋업 진행
 
-2023-10-31 FinOps Foundation 슬랙 채널 생성 (#meetup-korea-finops)
+2023-10-31 FinOps Foundation 슬랙 채널 생성 (#meetup-korea)
 
 2022-07-18 오픈 채팅 생성
