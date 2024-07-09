@@ -21,6 +21,8 @@ subtitle:
 
 ## Azure Learn
 - [FinOps란?](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/finops/overview-finops)
+- [FinOps 검토](https://learn.microsoft.com/ko-kr/assessments/ad1c0f6b-396b-44a4-924b-7a4c778a13d3)
+- [Azure에서 FinOps 채택](https://learn.microsoft.com/ko-kr/training/modules/adopt-finops-on-azure/)
 - [자습서: FinOps 반복 수행](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/finops/conduct-finops-iteration?source=recommendations)
 - [자습서: 권장 사항에서 비용 최적화](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/costs/tutorial-acm-opt-recommendations)
 
