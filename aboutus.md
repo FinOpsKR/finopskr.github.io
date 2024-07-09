@@ -23,6 +23,7 @@ subtitle:
 | 정태환      | FOCP & Speaker    |
 | 김수현      | FOCP & Speaker    |
 | 구경열      | FOCP        |
+| 이병우      | FOCP        |
 
 커뮤니티 나 FinOps에 문의사항이 있으시다면 하단 Footer에 있는 메일 계정으로 문의바랍니다.
 
