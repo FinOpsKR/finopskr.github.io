@@ -69,9 +69,9 @@ subtitle:
 - [Amazon EKS 비용 최적화 워크샵](https://catalog.workshops.aws/eks-cost-optimization/ko-KR)
 - [Cloud Financial Framework (CFF)](https://catalog.workshops.aws/awscff/en-US)
 - [Azure-Cost-Reporing](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
-- [AWS Level 100 : COST VISUALIZATION](https://wellarchitectedlabs.com/cost/100_labs/100_5_cost_visualization/)
-- [AWS Level 200 : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/)
-- [AWS Level 200 : COMPUTE OPTIMIZER DASHBOARD](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/compute-optimizer-dashboards/)
+- [AWS Well-Architected Labs : Cost Optimization](https://wellarchitectedlabs.com/cost-optimization/)
+- [AWS Well-Architected Labs : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cloud-intelligence-dashboards/)
+- [AWS Workshop Studio : Cloud Intelligence Dashboards Framework](https://catalog.workshops.aws/awscid/)
 
 
 
