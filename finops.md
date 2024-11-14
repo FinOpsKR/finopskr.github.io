@@ -10,6 +10,7 @@ subtitle:
 - [FinOps Solutions](#finops-solutions)
 
 ## FinOps Ariticles
+- [최적화된 인스턴스 추천을 위한 Rightsizing Recommendations 시스템 개발 여정](https://techblog.woowahan.com/19685/)
 - [클라우드인데 비용이 왜 안 줄어들까?](https://post.naver.com/viewer/postView.naver?volumeNo=32191135)
 - [기업용 클라우드 비용 최적화: 도구과 사례](https://slownews.kr/79903)
 - [소중한 자원이 낭비되지 않도록, 클라우드 핀옵스(FinOps)에 포커스](https://www.samsungsds.com/kr/techreport/cloud-finops.html)
