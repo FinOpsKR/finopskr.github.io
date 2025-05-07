@@ -20,14 +20,16 @@ subtitle:
 | **이름**       | **비고**       |
 |:----------:|:----------:|
 | 강전희      | FOCP & Certified Meetup Organizer   |
-| 정태환      | FOCP & Speaker    |
-| 김수현      | FOCP & Speaker    |
-| 구경열      | FOCP        |
-| 이병우      | FOCP        |
+| 정태환      | FOCP & Speaker                      |
+| 김수현      | FOCP & Speaker                      |
+| 구경열      | FOCP & Speaker                      |
+| 이병우      | FOCP                                |
 
 커뮤니티 나 FinOps에 문의사항이 있으시다면 하단 Footer에 있는 메일 계정으로 문의바랍니다.
 
 # FinOps 한국 커뮤니티 이력
+
+2024-12-17 세 번째 밋업 진행
 
 2024-04-19 두 번째 밋업 진행
 
