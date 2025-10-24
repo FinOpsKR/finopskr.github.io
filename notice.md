@@ -6,33 +6,56 @@ subtitle:
 
 # FinOps 한국 커뮤니티 행사 안내
 
-24년 4월 Meetup
 
-[![2024-04-19-korea-meetup](/assets/img/2024-04-19-korea-meetup.png "Korea FinOps Meetup")](https://events.finops.org/event/korea-finops-meetup/)
+Meetup History
+-----
+
+25년 9월 제4회 Meetup
+```
+2025년 9월 26일 (금) 19:00~20:30
+올리브영 N성수 4층 라운지
+
+19:00~19:30 (30분) 접수 및 안내
+19:30~20:00 (30분) Datadog CloudCost Management - 이누리님(Datadog)
+20:00~20:30 (30분) RI/SP 알아보기 - 강전희님(TVING)
+```
+
+24년 12월 Meetup
+```
+2024년 12월 17일 화요일 19시~21시
+무신사캠퍼스 N1 2층
+
+19:00~19:20 (20분) 접수 및 안내
+19:20~19:50 (30분) 나야, 베드락 - 구경열님
+19:50~20:30 (40분) FinOps-X Europe ReCap - 이병우님(무신사), 박진수님(Mercari, Inc.)
+20:30~21:00 (30분) 네트워킹
+
+
+```
+
+
+24년 4월 Meetup
 
 ```
 2024년 4월 19일 (금) 7:30 PM 
 한빛미디어 강의실60
 
 19:30 – 19:40 체크인 및 소개
-19:40 – 20:10 FinOps 페르소나 이해 – 김수현, CJ 올리브네트웍스 클라우드 엔지니어
-20:10 – 20:40 FinOps 태깅 전략 – 박진수, Mercari, Inc. FinOps 엔지니어
+19:40 – 20:10 FinOps 페르소나 이해 – 김수현님(CJ 올리브네트웍스)
+20:10 – 20:40 FinOps 태깅 전략 – 박진수님(Mercari, Inc.)
 20:40 – 21:00 네트워킹
 ```
 
-Meetup History
------
 24년 1월 Meetup
 
-[![2024-01-12-korea-meetup](/assets/img/2024-01-12-korea-meetup.png "Korea FinOps Meetup")](https://events.finops.org/event/korea-finops-meetup/)
 
 ```
 2024년 1월 12일 (금) 7:30 PM 
 한빛미디어 강의실40
 
 19:30 – 19:40 체크인 및 소개
-19:40 – 20:10 What, Why, How FinOps – 강전희, TVING
-20:10 – 20:40 FinOps Engineering – 정태환,  밀리의서재
+19:40 – 20:10 What, Why, How FinOps – 강전희님(TVING)
+20:10 – 20:40 FinOps Engineering – 정태환님(밀리의 서재)
 20:40 – 21:00 네트워킹
 ```
 
