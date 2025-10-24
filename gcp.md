@@ -8,6 +8,7 @@ subtitle:
 - [GCP](#gcp)
   - [GCP Docs](#gcp-docs)
   - [GCP Blogs](#gcp-blogs)
+  - [GCP Videos](#gcp-videos)
   - [GCP Learn](#gcp-learn)
   - [GCP FinOps Tools](#gcp-finops-tools)
   - [Article](#article)
@@ -42,7 +43,8 @@ subtitle:
   - [Google Cloud VMware Engine 배포 비용 최적화](https://cloud.google.com/blog/ko/products/data-analytics/cost-optimization-of-google-cloud-vmware-engine-deployments)
   - [현장에서 배우는 FinOps: 클라우드 비용 예측하기](https://cloud.google.com/blog/ko/topics/cost-management/thoughts-on-forecasting-cloud-costs)
 
-
+## GCP Videos
+- [Use Gemini Cloud Assist in Google Cloud FinOps tooling to drive Cloud ROI](https://www.youtube.com/watch?v=RYoOjVETTYc)
 
 
 

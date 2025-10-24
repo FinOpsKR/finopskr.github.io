@@ -30,6 +30,7 @@ subtitle:
 - [AWS 비용 초과 시 자동으로 리소스/지출 멈추는 방법](https://www.youtube.com/watch?v=V8J5m2DyesQ)
 
 ## AWS Blogs
+- [Create a multicloud FinOps dashboard with Amazon QuickSight using AWS services](https://aws.amazon.com/ko/blogs/publicsector/create-a-multicloud-finops-dashboard-with-amazon-quicksight-using-aws-services/)
 - [Cost Optimization Hub 출시 – 권장 조치를 중앙 집중화하여 비용 절감](https://aws.amazon.com/ko/blogs/korea/new-cost-optimization-hub-to-find-all-recommended-actions-in-one-place-for-saving-you-money/)
 - [10 Ways to work WITH Developers to take action with FinOps/Cost Optimization](https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/10-ways-to-work-with-developers-to-take-action-with-finops-cost-optimize/)
 - [Amazon EFS Archive – 거의 접근하지 않는 파일 스토리지 비용 최적화](https://aws.amazon.com/ko/blogs/korea/optimize-your-storage-costs-for-rarely-accessed-files-with-amazon-efs-archive/)
@@ -62,6 +63,7 @@ subtitle:
 - [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
 - [13 hidden AWS charges and how to avoid them](https://medium.com/@NickHystax/13-hidden-aws-charges-and-how-to-avoid-them-79b94a328e62)
 - [How to Manage Your AWS Resources Effectively with Tags](https://www.linkedin.com/pulse/how-manage-your-aws-resources-effectively-tags-aleksandar-nenov/)
+- [AWS FinOps Dashboard: A Simple Terminal Tool for AWS Cost Management](https://shrihariharidas73.medium.com/aws-finops-dashboard-a-simple-terminal-tool-for-aws-cost-management-29d5079956dd)
 
 
 
@@ -80,6 +82,8 @@ subtitle:
 
 
 ## AWS FinOps Tools
+- [AWS FinOps MCP Server](https://github.com/ravikiranvm/aws-finops-mcp-server)
+- [AWS FinOps Dashboard (CLI)](https://github.com/ravikiranvm/aws-finops-dashboard)
 - [AWS 비용 계산기](https://calculator.aws/)
 - [EC2기반 리소스 비용 비교하기](https://instances.vantage.sh/)
 - [AWS 한달 비용 계산기](https://calculator.s3.amazonaws.com/index.html)
