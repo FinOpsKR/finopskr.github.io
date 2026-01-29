@@ -16,6 +16,10 @@
 - [AWS Cloud Financial Management](https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/)
 
 ## AWS FinOps Video
+- [AWS re:Invent 2025 - A leader's guide to AI-powered FinOps (SNR306)](https://www.youtube.com/watch?v=On0TNR6eZ9s)
+- [AWS re:Invent 2024 - The future of FinOps is CloudOps (COP205)](https://www.youtube.com/watch?v=xYI-TLXWGa4)
+- [AWS re:Invent 2024 - Making dollars and sense out of FinOps (SEG202)](https://www.youtube.com/watch?v=lsobsidIuzo)
+- [우아한형제들의 비용인식 문화에 기반한 클라우드 비용관리체계 구축과정](https://www.youtube.com/watch?v=4B-h_2Wrmyw)
 - [AWS 비용 관련 유튜브 재생목록](https://www.youtube.com/playlist?list=PLkMxFWEx0j2OA-qi5kMMqfIEdCXd-l-Os)
 - [AWS re:Invent 2022 비용 관련 유튜브 재생목록](https://www.youtube.com/watch?v=xOQzhagC9hA&list=PLkMxFWEx0j2N8gV3rmoevDKKU5F0OW5eK)
 
