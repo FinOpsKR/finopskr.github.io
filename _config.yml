@@ -20,7 +20,9 @@ author: © 2023 핀옵스 한국 커뮤니티
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
+  About Us:
+    - About Us: "aboutus"
+    - FinOps Foundation: "https://www.finops.org/"
   Notice:
     - Notice: "notice"
     - Code of Conduct: "codeofconduct"
@@ -32,8 +34,6 @@ navbar-links:
     - Azure : "azure"
     - NCLOUD : "ncloud"
     
-  FinOps Foundation : "https://www.finops.org/"  
-
 ################
 # --- Logo --- #
 ################

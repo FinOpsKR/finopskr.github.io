@@ -16,13 +16,15 @@
         {%- if link[1].first %}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                {%- endfor -%}
-              {%- endfor %}
-            </div>
+	            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+	              {%- for childlink in link[1] -%}
+	                {%- for linkparts in childlink %}
+	                  {%- assign child_url = linkparts[1] -%}
+	                  {%- assign is_external = child_url | slice: 0, 4 -%}
+	                  <a class="dropdown-item" href="{{ child_url | relative_url }}"{% if is_external == 'http' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ linkparts[0] }}</a>
+	                {%- endfor -%}
+	              {%- endfor %}
+	            </div>
           </li>
         {% else %}
           <li class="nav-item">
