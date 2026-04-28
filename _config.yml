@@ -20,6 +20,7 @@ author: © 2023 핀옵스 한국 커뮤니티
 ###############################################
 
 navbar-links:
+  Posts: "posts"
   About Us: "aboutus"
   NOTICE : "notice"
   Code of Conduct : "codeofconduct"
