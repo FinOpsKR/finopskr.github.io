@@ -1,6 +1,6 @@
 ---
 layout: post
-published: ture
+published: true
 title: FinOps 란 무엇인가?
 subtitle: 최신 FinOps Framework 요약
 tags: Finops
